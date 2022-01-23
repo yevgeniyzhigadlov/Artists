@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Артисты</string>
+    <string name="empty_list">Список пуст</string>
+    <string name="listeners">Слушатели:\n%s</string>
+</resources>
